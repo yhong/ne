@@ -1,3 +1,3 @@
 <?php
-define("EDITOR_ROOT", "/var/www/shopping/www/editor");
+define("EDITOR_ROOT", [base_dir]);
 ?>
